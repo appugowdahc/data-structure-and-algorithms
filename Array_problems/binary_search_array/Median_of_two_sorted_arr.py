@@ -49,7 +49,7 @@ a2 = [[2],[],[5,6,7,8]]
 # for i in range(len(a1)): 
 #     print(findMedianSortedArrays(a1[i],a2[i]))
     
-#This is CHATGPT solution
+#T
 
 def findMedianSortedArrays(nums1, nums2):
     if len(nums1) > len(nums2):
