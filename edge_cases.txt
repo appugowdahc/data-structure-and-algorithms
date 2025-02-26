@@ -1,0 +1,13 @@
+1. Is nums array contains distict integers or duplicate integers?
+
+2. what would you expect if nums are empty?
+
+3. what would you expect if no matching numbers are found?
+
+4. are All letters will be lowercase?
+
+5. are all letters will alpha numeric or it contains special characters also?
+
+6. is String letters are case sensitive?
+
+7. 
